@@ -1,0 +1,129 @@
+- generic [ref=e1]:
+  - link "Skip to study content" [ref=e2] [cursor=pointer]:
+    - /url: "#main"
+  - complementary "Study navigation" [ref=e3]:
+    - button "Control Quest home" [ref=e4] [cursor=pointer]: control quest.
+    - generic [ref=e8]:
+      - strong [ref=e9]: NURSING STUDY ROOM
+      - text: NCM 433 · Leadershipand Management
+    - navigation "Main" [ref=e10]:
+      - button "Overview" [ref=e11] [cursor=pointer]
+      - button "Learn" [ref=e16] [cursor=pointer]:
+        - generic [ref=e21]: "01"
+      - button "Flashcards" [ref=e22] [cursor=pointer]:
+        - generic [ref=e28]: "02"
+      - button "Ward lab" [ref=e29] [cursor=pointer]:
+        - generic [ref=e34]: "03"
+      - button "Quiz" [ref=e35] [cursor=pointer]:
+        - generic [ref=e40]: "04"
+    - generic [ref=e41]:
+      - generic [ref=e42]:
+        - strong [ref=e43]: Your mastery
+        - strong [ref=e44]: 0%
+      - paragraph [ref=e45]: Small steps. Stronger recall.
+      - progressbar "Study mastery" [ref=e46]
+      - paragraph [ref=e47]: 0 of 8 lessons explored
+    - generic [ref=e48]:
+      - button "Your original handout" [ref=e49] [cursor=pointer]
+      - generic [ref=e53]: Made for offline study
+  - generic [ref=e55]:
+    - banner [ref=e56]:
+      - generic [ref=e57]:
+        - text: Your study room /
+        - strong [ref=e58]: Learn
+      - generic [ref=e59]:
+        - generic [ref=e60]: NCM 433
+        - generic [ref=e61]: 0 XP
+        - generic "Nursing student" [ref=e66]: NS
+    - main [active] [ref=e67]:
+      - generic [ref=e233]:
+        - text: 01 / Learn
+        - heading "Little lessons. Lasting understanding." [level=1] [ref=e234]
+        - paragraph [ref=e235]: Take one topic at a time. Pause at the recall check, then explain the idea in your own words.
+      - generic [ref=e236]:
+        - navigation "Lessons" [ref=e237]:
+          - button "01 The big picture Not completed" [ref=e238] [cursor=pointer]:
+            - generic [ref=e239]: "01"
+            - generic [ref=e240]: The big picture
+            - generic "Not completed"
+          - button "02 Evaluate with purpose Not completed" [ref=e241] [cursor=pointer]:
+            - generic [ref=e242]: "02"
+            - generic [ref=e243]: Evaluate with purpose
+            - generic "Not completed"
+          - button "03 Close the control loop Not completed" [ref=e244] [cursor=pointer]:
+            - generic [ref=e245]: "03"
+            - generic [ref=e246]: Close the control loop
+            - generic "Not completed"
+          - button "04 Appraisal that helps Not completed" [ref=e247] [cursor=pointer]:
+            - generic [ref=e248]: "04"
+            - generic [ref=e249]: Appraisal that helps
+            - generic "Not completed"
+          - button "05 Tools, without the bias Not completed" [ref=e250] [cursor=pointer]:
+            - generic [ref=e251]: "05"
+            - generic [ref=e252]: Tools, without the bias
+            - generic "Not completed"
+          - button "06 Quality, checked Not completed" [ref=e253] [cursor=pointer]:
+            - generic [ref=e254]: "06"
+            - generic [ref=e255]: Quality, checked
+            - generic "Not completed"
+          - button "07 Discipline with direction Not completed" [ref=e256] [cursor=pointer]:
+            - generic [ref=e257]: "07"
+            - generic [ref=e258]: Discipline with direction
+            - generic "Not completed"
+          - button "08 The discipline ladder Not completed" [ref=e259] [cursor=pointer]:
+            - generic [ref=e260]: "08"
+            - generic [ref=e261]: The discipline ladder
+            - generic "Not completed"
+        - article [ref=e262]:
+          - generic [ref=e263]:
+            - generic [ref=e264]: Control essentials
+            - generic [ref=e265]: Lesson 1 / 8 · ~2 min
+          - heading "The big picture" [level=2] [ref=e266]
+          - paragraph [ref=e267]: Controlling closes the gap between the plan and what actually happens.
+          - paragraph [ref=e268]:
+            - strong [ref=e269]: Controlling means assessing and regulating performance
+            - text: against adopted plans, issued instructions, and established principles. It tells managers how well people and processes are working so they can support better performance.
+          - heading "Same purpose, different timing" [level=3] [ref=e270]
+          - generic [ref=e271]:
+            - generic [ref=e272]:
+              - text: Before
+              - heading "Feedforward" [level=4] [ref=e273]
+              - paragraph [ref=e274]: Monitor inputs and anticipate problems before they affect the system.
+            - generic [ref=e275]:
+              - text: During
+              - heading "Concurrent" [level=4] [ref=e276]
+              - paragraph [ref=e277]: Monitor activities as they happen and check that they meet standards.
+            - generic [ref=e278]:
+              - text: After
+              - heading "Feedback" [level=4] [ref=e279]
+              - paragraph [ref=e280]: Evaluate completed activities and use the results to improve future work.
+          - generic [ref=e281]:
+            - strong [ref=e282]: Memory hook · Before, during, after.
+            - paragraph [ref=e283]: Feedforward looks ahead. Concurrent stays alongside. Feedback looks back.
+          - heading "Imagine one ward shift" [level=3] [ref=e284]
+          - list [ref=e285]:
+            - listitem [ref=e286]:
+              - strong [ref=e287]: "Before:"
+              - text: check whether supplies are ready for the shift → feedforward.
+            - listitem [ref=e288]:
+              - strong [ref=e289]: "During:"
+              - text: observe practice while care is happening → concurrent.
+            - listitem [ref=e290]:
+              - strong [ref=e291]: "After:"
+              - text: review last month's completed reports to improve the next month → feedback.
+          - paragraph [ref=e292]: These ward examples were created to help apply the handout's definitions.
+          - group [ref=e293]:
+            - 'generic "Pause & recall: A manager reviews last month’s incident reports to improve next month’s practice. Which control type?" [ref=e294] [cursor=pointer]'
+          - group [ref=e295]:
+            - generic "Your own words · personal notes" [ref=e296] [cursor=pointer]
+          - generic [ref=e297]:
+            - button "Handout · p. 1" [ref=e299] [cursor=pointer]
+            - generic [ref=e300]:
+              - button "Practice this topic" [ref=e301] [cursor=pointer]
+              - button "Got it · complete lesson" [ref=e302] [cursor=pointer]
+    - contentinfo [ref=e227]:
+      - generic [ref=e228]: Progress saves in this browser · No account needed
+      - generic [ref=e229]:
+        - button "Source & study guide" [ref=e230] [cursor=pointer]
+        - button "Print notes" [ref=e231] [cursor=pointer]
+        - button "Reset progress" [ref=e232] [cursor=pointer]

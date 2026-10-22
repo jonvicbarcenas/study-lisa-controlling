@@ -1,0 +1,137 @@
+- generic [ref=e1]:
+  - link "Skip to study content" [ref=e2] [cursor=pointer]:
+    - /url: "#main"
+  - complementary "Study navigation" [ref=e3]:
+    - button "Control Quest home" [ref=e4] [cursor=pointer]: control quest.
+    - generic [ref=e8]:
+      - strong [ref=e9]: NURSING STUDY ROOM
+      - text: NCM 433 · Leadershipand Management
+    - navigation "Main" [ref=e10]:
+      - button "Overview" [ref=e11] [cursor=pointer]
+      - button "Learn" [ref=e16] [cursor=pointer]:
+        - generic [ref=e21]: "01"
+      - button "Flashcards" [ref=e22] [cursor=pointer]:
+        - generic [ref=e28]: "02"
+      - button "Ward lab" [ref=e29] [cursor=pointer]:
+        - generic [ref=e34]: "03"
+      - button "Quiz" [ref=e35] [cursor=pointer]:
+        - generic [ref=e40]: "04"
+    - generic [ref=e41]:
+      - generic [ref=e42]:
+        - strong [ref=e43]: Your mastery
+        - strong [ref=e44]: 0%
+      - paragraph [ref=e45]: Small steps. Stronger recall.
+      - progressbar "Study mastery" [ref=e46]
+      - paragraph [ref=e47]: 0 of 8 lessons explored
+    - generic [ref=e48]:
+      - button "Your original handout" [ref=e49] [cursor=pointer]
+      - generic [ref=e53]: Made for offline study
+  - generic [ref=e55]:
+    - banner [ref=e56]:
+      - generic [ref=e57]:
+        - text: Your study room /
+        - strong [ref=e58]: Overview
+      - generic [ref=e59]:
+        - generic [ref=e60]: NCM 433
+        - generic [ref=e61]: 0 XP
+        - generic "Nursing student" [ref=e66]: NS
+    - main [active] [ref=e67]:
+      - generic [ref=e68]:
+        - paragraph [ref=e69]:
+          - strong [ref=e70]: Your next shift? In control.
+          - text: A fresh way to study nursing management.
+        - generic [ref=e71]: 3-page handout → one study adventure
+      - generic [ref=e72]:
+        - generic [ref=e73]:
+          - generic [ref=e74]: CHAPTER 05 · CONTROLLING
+          - heading [level=1] [ref=e75]:
+            - text: A little practice.A lot more
+            - emphasis [ref=e76]: control.
+          - paragraph [ref=e77]: Meet the standards. Spot the gaps. Build the confidence to bring it all together.
+          - button "Let’s start learning" [ref=e78] [cursor=pointer]
+          - paragraph [ref=e81]: Learn → recall → apply → check yourself.
+        - generic [ref=e82]:
+          - img "Pip, a smiling clipboard study buddy with a nurse cap" [ref=e83]:
+            - generic [ref=e103]: Aha!
+          - generic [ref=e106]: "Pip says: you’ve got this."
+      - generic [ref=e107]:
+        - generic [ref=e108]:
+          - heading "Find your study groove" [level=2] [ref=e109]
+          - paragraph [ref=e110]: Follow the route, or jump into whatever you need.
+        - generic [ref=e111]: No timers. No pressure.
+      - generic [ref=e112]:
+        - button "Learn the essentials Bite-sized notes. Big-picture understanding. 8 lessons · go at your pace" [ref=e113] [cursor=pointer]:
+          - heading "Learn the essentials" [level=3] [ref=e120]
+          - paragraph [ref=e121]: Bite-sized notes. Big-picture understanding.
+          - generic [ref=e122]: 8 lessons · go at your pace
+        - button "Make it stick Think first. Flip. Build your recall. 46 flashcards · review your way" [ref=e123] [cursor=pointer]:
+          - heading "Make it stick" [level=3] [ref=e131]
+          - paragraph [ref=e132]: Think first. Flip. Build your recall.
+          - generic [ref=e133]: 46 flashcards · review your way
+        - button "Try the ward lab Spot the clues in real-world-style cases. 24 cases · 4 mini challenges" [ref=e134] [cursor=pointer]:
+          - heading "Try the ward lab" [level=3] [ref=e141]
+          - paragraph [ref=e142]: Spot the clues in real-world-style cases.
+          - generic [ref=e143]: 24 cases · 4 mini challenges
+        - button "Check your know-how Test yourself, then learn from every answer. 46 questions · no timer" [ref=e144] [cursor=pointer]:
+          - heading "Check your know-how" [level=3] [ref=e151]
+          - paragraph [ref=e152]: Test yourself, then learn from every answer.
+          - generic [ref=e153]: 46 questions · no timer
+      - generic [ref=e154]:
+        - generic [ref=e155]:
+          - generic [ref=e156]:
+            - heading "Your learning route" [level=2] [ref=e157]
+            - generic [ref=e158]: 0 / 8 explored
+          - generic [ref=e159]:
+            - button "01 The big picture 2 min · p. 1" [ref=e160] [cursor=pointer]:
+              - generic [ref=e161]: "01"
+              - generic [ref=e162]: The big picture
+              - generic [ref=e163]: 2 min · p. 1
+            - button "02 Evaluate with purpose 3 min · p. 1" [ref=e166] [cursor=pointer]:
+              - generic [ref=e167]: "02"
+              - generic [ref=e168]: Evaluate with purpose
+              - generic [ref=e169]: 3 min · p. 1
+            - button "03 Close the control loop 3 min · p. 1" [ref=e172] [cursor=pointer]:
+              - generic [ref=e173]: "03"
+              - generic [ref=e174]: Close the control loop
+              - generic [ref=e175]: 3 min · p. 1
+            - button "04 Appraisal that helps 3 min · p. 1" [ref=e178] [cursor=pointer]:
+              - generic [ref=e179]: "04"
+              - generic [ref=e180]: Appraisal that helps
+              - generic [ref=e181]: 3 min · p. 1
+            - button "05 Tools, without the bias 4 min · p. 2" [ref=e184] [cursor=pointer]:
+              - generic [ref=e185]: "05"
+              - generic [ref=e186]: Tools, without the bias
+              - generic [ref=e187]: 4 min · p. 2
+            - button "06 Quality, checked 4 min · p. 2–3" [ref=e190] [cursor=pointer]:
+              - generic [ref=e191]: "06"
+              - generic [ref=e192]: Quality, checked
+              - generic [ref=e193]: 4 min · p. 2–3
+            - button "07 Discipline with direction 3 min · p. 3" [ref=e196] [cursor=pointer]:
+              - generic [ref=e197]: "07"
+              - generic [ref=e198]: Discipline with direction
+              - generic [ref=e199]: 3 min · p. 3
+            - button "08 The discipline ladder 3 min · p. 3" [ref=e202] [cursor=pointer]:
+              - generic [ref=e203]: "08"
+              - generic [ref=e204]: The discipline ladder
+              - generic [ref=e205]: 3 min · p. 3
+        - generic [ref=e208]:
+          - generic [ref=e209]:
+            - text: Pip’s study tip
+            - paragraph [ref=e210]: “If you can explain it without peeking, it’s starting to stick.”
+            - paragraph [ref=e211]: Try saying the answer out loud before you flip a flashcard. A little effort now makes your next review more useful.
+            - button "Give it a go" [ref=e212] [cursor=pointer]
+          - generic [ref=e215]:
+            - heading "Small wins count." [level=3] [ref=e217]
+            - paragraph [ref=e220]: 0 cards known · 0 cases solvedYour first quiz is waiting for you.
+            - generic [ref=e221]:
+              - generic "Keep going to unlock" [ref=e222]: ○ First steps
+              - generic "Keep going to unlock" [ref=e223]: ○ Recall builder
+              - generic "Keep going to unlock" [ref=e224]: ○ Lab detective
+              - generic "Keep going to unlock" [ref=e225]: ○ Quiz confident
+            - paragraph [ref=e226]: "Unlock by: 1 lesson · 10 known cards · 12 cases · 80% on a quiz of 10+ questions."
+    - contentinfo [ref=e227]:
+      - generic [ref=e228]: Progress saves in this browser · No account needed
+      - generic [ref=e229]:
+        - button "Source & study guide" [ref=e230] [cursor=pointer]
+        - button "Print notes" [ref=e231] [cursor=pointer]
+        - button "Reset progress" [ref=e232] [cursor=pointer]

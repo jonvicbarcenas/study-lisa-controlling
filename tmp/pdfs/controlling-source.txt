@@ -1,0 +1,226 @@
+PAGE 1
+NCM 433: Nursing Leadership and Management Controlling
+NURSING MANAGEMENT FUNCTION: CONTROLLING 2. Process standards: action of the nurse relative
+CONTROLLING to the nursing process
+3. Outcome standards: designed to measure the
+® Includes ASSESSING and REGULATING performance in
+results of care provided.
+accordance with the plans that have been adopted, the
+• Methods for Measuring Nursing Care
+instructions issued, and the principles established.
+® Provides information about how well processes & people o Task Analysis
+function so they can be motivated to perform better in the o Quality Control
+B. Measuring Actual Performance
+future
+• An ongoing, repetitive process with the actual
+® Types of Organizational Controls:
+frequency dependent on the type of activity being
+1. Feedforward control: prevents problems by
+measured
+monitoring inputs and anticipating issues before they
+• Maybe scheduled in advance/maybe done at periodic
+affect the system
+but unannounced intervals
+2. Concurrent control: monitors ongoing activities in
+C. Comparing Results of Performance with Standards &
+real-time, ensuring they conform to standards as they
+happened Objectives
+3. Feedback control: occurs after activities are • Performance should match with standards &
+objectives
+completed, evaluating outputs and using past
+performance to improve future results. D. Reinforcing Strengths & Taking Corrective Action
+• Corrective actions are applied to improve performance
+REASONS FOR CONDUCTING EVALUATION
+PERFORMANCE APPRAISAL
+µ Ensures that quality nursing care is provided.
+µ Allows for the setting of sensible objectives and ensures ® Employee’s performance is evaluated against standards.
+compliance with them. • Reflects how well the nursing personnel have
+µ Provides standards for establishing comparisons. performed during a specific period of time.
+µ Promotes visibility and a means for employees to monitor ® Purpose
+their own performance. µ Determine salary standards
+µ Highlights problems related to quality care and determines µ Select qualified individuals for promotion
+the areas that require priority attention. µ Identify unsatisfactory employees for demotion
+µ Provides an indication of the costs of poor quality. µ Make inventories of talents
+µ Justifies the use of resources. µ Determine training needs of employees
+µ Provides feedback for improvement. µ Improve the performance of work groups
+µ Improve communication
+µ Establish standards of supervisory performance
+PRINCIPLES OF EVALUATION:
+µ Discover the aspirations of employees
+µ Must be based on the BEHAVIORAL STANDARDS of
+µ Provide “employee recognition” for accomplishments
+performance.
+µ Inform employees “where they stand.”
+µ There should be enough time to observe employee’s
+FACTORS OF EFFECTIVE PERFORMANCE APPRAISAL:
+behavior.
+µ Employee should be given a copy of the job description, µ Appraisal should be based on a standard
+performance standards & evaluation form. µ Employee should have input into the development of
+µ Performance appraisal should include satisfactory & the standard.
+unsatisfactory results µ Employee must know the standard in advance
+µ Areas needing improvement must be prioritized µ Employee must know the sources of data gathered for
+the appraisal.
+µ Evaluation conference should be scheduled and
+conducted at a convenient time for the rater and µ Appraiser should be someone who/whom:
+employee • Has observed employee’s work.
+µ Evaluation report and conference should be structured • The employee trusts and respects.
+CHARACTERISTICS OF AN EVALUATION TOOL
+METHODS OF MEASURING PERFORMANCE
+Objectivity Tool is free from bias 1. Informal appraisal
+Reliability Tool is accurate • May consist of “INCIDENTAL OBSERVATION” of
+Validity Tool is relevant performance while the worker is engaged in
+performing nursing care
+Tool can measure fine lines of differences
+Sensitivity among the criteria being measured o Example: Nurse manager notices a staff nurse
+not following hand hygiene protocol before
+patient care.
+BASIC COMPONENTS OF THE CONTROL PROCESS
+2. Formal appraisal
+A. Establishment of Standards, Objectives & Methods for
+• Accomplished regularly and methodically by collecting
+Measuring Performance
+objective facts that can demonstrate the difference
+• Types of Performance Standards
+between what is expected and what was done
+1. Structure standards: focus on the structure or
+o Example: Chart audits to check accuracy and
+management system used by the agency to
+completeness of documentation.
+deliver care
+By: Joel Boniao | BSN4-N4 1
+
+PAGE 2
+NCM 433: Nursing Leadership and Management Controlling
+PERFORMANCE APPRAISAL TOOLS QUALITY ASSURANCE
+1. ESSAY ® Evaluation that is applied to the health care system and
+• Referred to as the free-form review the provision of health care services by health workers.
+• The appraiser describes in narrative form an A. Quality Improvement Program
+employee’s strengths & areas where improvement is o A continuous on-going measurement and
+needed evaluation process that includes structure,
+2. RANKING process, and outcome
+• The appraiser ranks the employees according to how o Example: Monitoring hand hygiene compliance
+he fared with co-workers with respect to qualifications. and implementing strategies to reduce hospital-
+3. CHECKLISTS acquired infections.
+• A compilation of all nursing performances expected B. Benchmarking
+of a worker. o Process of measuring products and services
+• Types: against those of best-performing organizations.
+o Weighted scale: composed of many behavioral o Example: A hospital compares its patient
+statements that represent desirable job satisfaction scores with top-rated institutions to
+behaviors. improve its service delivery.
+o Forced checklist: requires the supervisor to C. Quality of care
+select an undesirable and a desirable behavior o The degree to which health services for
+for each employee. individuals & population increase the likelihood of
+o Simple checklist: composed of numerous desired health outcomes
+words or phrases describing various employee o Example: Measuring effectiveness of a stroke
+behaviors or traits. The rater will check all those care protocol based on patient recovery rates.
+that describe the employee on each checklist. D. Nursing Audit
+4. RATING SCALE o Documentation of the quality of nursing care in
+• Includes a series of items representing the different relation to the standards established by the
+tasks or activities in the nurse’s job description or the nursing department
+absence or presence of desired behaviors and the o Example: Auditing patient charts to check if pain
+extent to which these are possessed. assessments are consistently documented every
+5. FORCED-CHOICE COMPARISON shift.
+• The evaluator will choose the statement that
+best/least describes the nurse being evaluated METHODS OF QUALITY ASSURANCE
+• The items are grouped that the evaluator is forced to 1. Patient Care Audits
+choose from favorable as well as unfavorable • Concurrent: Patient care is observed and evaluated.
+statements Patients’ charts are reviewed while the patients are still
+6. ANECDOTAL RECORDING confined in the hospital
+• Describes the nurse’s experience with a group or a o Example: Checking IV site care and charting
+person, or in validating technical skills and while patient is confined.
+interpersonal relationships. • Retrospective: Patient care is evaluated thru review
+7. PEER REVIEW of discharged patient’s chart & questionnaires sent to
+• May be done by peers (employees of the same or interviews on discharged patients
+profession, rank and setting) evaluating another’s o Example: Evaluating completeness of discharge
+job performance against accepted standards. instructions in patient charts.
+2. Peer Review
+COMMON PITFALLS OF PERFORMANCE APPRAISAL: • A collegial evaluation of the performance done to
+µ HALO EFFECT promote excellence in practice
+• When the appraiser lets one or two positive o Example: A wound care team reviews another
+aspects of the behavior of the employee nurse’s dressing technique for adherence to
+influence all other aspects of the employees’ sterile procedure.
+performance. 3. Quality Circles
+µ HORNS EFFECT • Group of workers doing similar work who meet
+• When the appraiser allows some negative aspects regularly, voluntarily on normal working time under the
+of the employee’s performance influence the leadership of their supervisor.
+assessment to such extent that other levels of job o Example: Staff nurses meet monthly to suggest
+performance are not accurately recorded. ways to reduce medication errors in their unit.
+µ CENTRAL TENDENCY TRAP 4. Structure Audit
+• The appraiser is hesitant to risk true assessment • Monitors the structure or setting in which patient
+and therefore rates all employees as average. care occurs such as finances, nursing service
+structure, medical records, environmental structure.
+o Example: Checking if there are enough IV pumps,
+safe staffing ratios, and proper documentation
+systems.
+By: Joel Boniao | BSN4-N4 2
+
+PAGE 3
+NCM 433: Nursing Leadership and Management Controlling
+5. Process audit DISCIPLINARY ACTION
+• Measure how nursing care is provided or how the care 1. COUNSELING AND ORAL WARNING
+was carried out • The employee is counseled regarding:
+Used to provide a tool to assess deviations from o Expectations of improved performance
+accepted best practice process standards o Ways of correcting the problem
+o Example: Reviewing whether nurses followed the o Warning that a repetition of the same offense may
+5 Rights of Medication Administration. warrant further disciplinary action.
+6. Outcome Audit • Example: A nurse is verbally counseled after being
+• Determines what results if any, occurred as a result of late for duty multiple times in one week.
+specific nursing intervention for patients 2. WRITTEN WARNING
+• The most valid indicators of quality care • This includes the statement of the problem,
+o Example: Measuring patient fall rates, infection identification of the rule which was violated,
+rates after interventions. consequences of continued deviant behavior, and the
+employee’s commitment to take corrective action, and
+DISCIPLINE any follow-up action to be taken
+® A constructive and effective means by which employees • Example: Nurse receives a written warning for
+take personal responsibility for their own performance incomplete charting after reminders and oral warning.
+and behavior. 3. SUSPENSION
+FACTORS THAT INFLUENCE SELF-DISCIPLINE: • Suspension over a minor violation is given after
+µ A strong commitment to the vision, philosophy, goals evidence of oral and written warnings
+and objectives of the institution. o Suspension rather than dismissal is applied when
+µ Laws that govern the practice of professionals and their management feels that the employee can still be
+respective codes of conduct. rehabilitated
+µ Understanding the rules and regulations of the agency • Example: Nurse suspended for 3 days after repeated
+µ An atmosphere of mutual trust and confidence medication errors despite prior counseling and written
+µ Pressure from peers and organization. warning.
+4. DISMISSAL
+DISCIPLINARY APPROACH • Invoked only when all disciplinary efforts have failed
+o The disciplinary committee should be very sure
+® A sound disciplinary program must be tailored to the
+that the cause for dismissal conforms with the
+objectives of the institution.
+criteria of a major discipline violation as contained
+® Should include the following:
+in the policy manual
+• Set of disciplinary policies and procedures
+• Example: Nurse dismissed for theft of hospital
+• A uniform application of the rules
+property after repeated disciplinary actions.
+• Disciplinary committee
+• Orientation program for all new employees
+® Successful Implementation of a disciplinary action:
+• Promptness: Action is taken immediately after the
+violation
+o Example: Nurse manager addresses a staff nurse
+who repeatedly arrives late on the same shift, not
+weeks later.
+• Fairness: Discipline matches severity of the offense.
+o Example: Minor documentation errors =
+coaching, not suspension.
+• Impartiality: Rules applied consistently to all staff,
+without favoritism
+o Example: Both senior and new nurses receive the
+same consequence for medication errors.
+• Non-punitiveness: Aim is correction, not punishment
+o Example: Nurse manager provides retraining on
+IV insertion instead of only issuing a warning for a
+failed attempt.
+• Advance warning: Staff are informed of rules and
+possible consequences beforehand
+o Example: Hospital handbook and orientation
+clearly state attendance policies.
+• Follow-through: Management enforces rules
+consistently and doesn’t ignore violations
+o Example: Continuous tardiness leads to
+progressive discipline (verbal → written → formal
+action).
+By: Joel Boniao | BSN4-N4 3
